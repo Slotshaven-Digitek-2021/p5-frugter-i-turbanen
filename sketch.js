@@ -176,12 +176,12 @@ OPGAVER
                 element.display();
             });
 
-            Indsæt denne kode i stedet for linjerne 60-62, hvor limefrugten
+            Indsæt denne kode i stedet for linjerne 65-67, hvor limefrugten
             flyttes og vises. Se at det virker.
 
  Opgave 2 - Opret en frugt ved navn appelsin, med de værdier vi bruger nu
             for appelsinen i scriptet, og læg den ind i frugtliste-arrayet. 
-            Udkommentér linjerne, som før hed 65-67 (move, checkScore og display). 
+            Udkommentér linjerne, som før hed 70-72 (move, checkScore og display). 
             Se at det virker. Ret det, hvis der mangler noget. Hvor meget af den 
             øvrige kode i sketch.js kan nu undværes?
 
