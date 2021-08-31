@@ -15,6 +15,7 @@ class Kurv {
         this.dyb = dybde;
         this.speed = speed;
         this.col = [250,230,150];
+        
     }   
     
     /* 
